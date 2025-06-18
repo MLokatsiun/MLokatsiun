@@ -58,8 +58,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=misalocat&show_icons=true&theme=tokyonight" alt="Mychailo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misalocat&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MLokatsiun&show_icons=true&theme=tokyonight" alt="Mychailo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MLokatsiun&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
@@ -67,7 +67,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=misalocat&theme=onedark&margin-w=10&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MLokatsiun&theme=onedark&margin-w=10&no-bg=true&no-frame=true" />
 </div>
 
 ---
