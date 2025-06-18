@@ -58,7 +58,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MLokatsiun&show_icons=true&theme=tokyonight" alt="Mychailo's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MLokatsiun&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
