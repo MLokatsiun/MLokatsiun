@@ -54,25 +54,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MLokatsiun&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MLokatsiun&theme=onedark&margin-w=10&no-bg=true&no-frame=true" />
-</div>
-
----
-
 ### 📬 Contact Me
 
 - 💼 [GitHub](https://github.com/MLokatsiun)
 - 📩 [Telegram](https://t.me/ML_System)
-- 🌐 [Portfolio Website](https://ml-systems.xyz)
 - 📧 [Email](mailto:misaloka29@gmail.com)
