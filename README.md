@@ -11,7 +11,6 @@
 - 💬 Ask me about: `FastAPI`, `React`, `PostgreSQL`, `Docker`, `Telegram Bots`, `Stripe`, `DevOps`
 - ⚡ Fun fact: *I build bots that build bots 😄*
 - 📫 Reach me via: [Telegram](https://t.me/ML_System) | [Email](mailto:misaloka29@gmail.com)
-- 🌐 Portfolio: [ml-systems.xyz](https://ml-systems.xyz)
 
 ---
 
